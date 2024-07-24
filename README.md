@@ -1,6 +1,7 @@
 # Algorithm-Visualizer
 
 An algorithm visualizer for Breadth-First Search, Depth-First Search, and Dijkstra's algorithm all on a graph. 
+
 Built with Vite, JS and React, webpage made with HTML/CSS.
 
 # How to use
